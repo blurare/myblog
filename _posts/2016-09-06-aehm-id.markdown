@@ -30,7 +30,7 @@ chapterStart:
 
 | | |
 |:-|:-|
-| Magazin | [bit.ly/yacht-cover.jpg](bit.ly/yacht-cover.jpg) |
+| Magazin | [bit.ly/yacht-cover.jpg](http://bit.ly/yacht-cover.jpg) |
 | Magazin | [bit.ly/yacht-cover.jpg](bit.ly/yacht-cover.jpg) |
 | Magazin | [bit.ly/yacht-cover.jpg](bit.ly/yacht-cover.jpg) |
 | Magazin | [bit.ly/yacht-cover.jpg](bit.ly/yacht-cover.jpg) |
