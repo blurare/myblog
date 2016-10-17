@@ -1,6 +1,6 @@
 # Site settings
 email: 
-baseurl: "/project-name"
+baseurl: /project-name
 paginate: 10
 paginate_path: "/myblog/page-:num"
 google_analytics: 
