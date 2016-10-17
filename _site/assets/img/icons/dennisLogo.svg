@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="45px" viewBox="0 0 40 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>dennisLogo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.698687287   0 0 0 0 0.698687287   0 0 0 0 0.698687287  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-7-Copy-2" transform="translate(-24.000000, -175.000000)">
+            <g id="Group-4" transform="translate(29.000000, 172.000000)">
+                <g id="dennisLogo" filter="url(#filter-1)" transform="translate(0.000000, 4.000000)">
+                    <g id="Dennis">
+                        <g id="Page-1">
+                            <g id="Artboard">
+                                <g id="Dennis">
+                                    <g id="Path-6" transform="translate(0.476190, 0.481771)">
+                                        <g id="path-1-link" fill="#000000">
+                                            <polygon id="path-1" points="13.3333333 33.7239583 11.4285714 33.2421875 10 31.796875 8.57142857 31.796875 4.76190476 27.9427083 4.28571429 26.4973958 2.85714286 26.4973958 0 23.125 0 18.7890625 4.28571429 19.2708333 4.28571429 15.8984375 2.85714286 15.8984375 0 13.0078125 0 11.5625 1.9047619 10.5989583 1.9047619 7.2265625 3.33333333 5.78125 3.33333333 4.3359375 6.19047619 4.3359375 9.04761905 1.4453125 10.4761905 1.4453125 11.9047619 2.890625 12.8571429 1.4453125 13.3333333 0 14.7619048 0 16.1904762 2.890625 17.1428571 2.890625 19.047619 1.92708333 20.4761905 1.92708333 20.4761905 4.3359375 21.9047619 4.3359375 23.3333333 3.37239583 24.7619048 2.890625 26.1904762 4.3359375 26.1904762 5.78125 27.6190476 8.671875 27.1428571 10.5989583 29.047619 12.0442708 27.6190476 13.4895833 27.6190476 14.9348958 26.1904762 15.8984375 24.7619048 16.8619792 24.7619048 18.7890625 29.047619 18.7890625 29.047619 23.6067708 25.2380952 26.4973958 21.9047619 30.8333333 20 32.2786458 17.1428571 33.2421875"></polygon>
+                                        </g>
+                                        <g id="path-1-link" fill="#FFFFFF">
+                                            <polygon id="path-1" points="13.3333333 33.7239583 11.4285714 33.2421875 10 31.796875 8.57142857 31.796875 4.76190476 27.9427083 4.28571429 26.4973958 2.85714286 26.4973958 0 23.125 0 18.7890625 4.28571429 19.2708333 4.28571429 15.8984375 2.85714286 15.8984375 0 13.0078125 0 11.5625 1.9047619 10.5989583 1.9047619 7.2265625 3.33333333 5.78125 3.33333333 4.3359375 6.19047619 4.3359375 9.04761905 1.4453125 10.4761905 1.4453125 11.9047619 2.890625 12.8571429 1.4453125 13.3333333 0 14.7619048 0 16.1904762 2.890625 17.1428571 2.890625 19.047619 1.92708333 20.4761905 1.92708333 20.4761905 4.3359375 21.9047619 4.3359375 23.3333333 3.37239583 24.7619048 2.890625 26.1904762 4.3359375 26.1904762 5.78125 27.6190476 8.671875 27.1428571 10.5989583 29.047619 12.0442708 27.6190476 13.4895833 27.6190476 14.9348958 26.1904762 15.8984375 24.7619048 16.8619792 24.7619048 18.7890625 29.047619 18.7890625 29.047619 23.6067708 25.2380952 26.4973958 21.9047619 30.8333333 20 32.2786458 17.1428571 33.2421875"></polygon>
+                                        </g>
+                                    </g>
+                                    <rect id="Rectangle-11" fill="#000000" x="4.28571429" y="13.0078125" width="1.42857143" height="15.8984375"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="5.71428571" y="28.90625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="14.2857143" y="23.6067708" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="12.8571429" y="29.8697917" width="4.28571429" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="11.4285714" y="28.4244792" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="17.1428571" y="28.4244792" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="10.4761905" y="19.7526042" width="1.42857143" height="2.890625"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="2.85714286" y="15.8984375" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="25.7142857" y="15.8984375" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="28.5714286" y="11.5625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="1.42857143" y="14.453125" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="2.85714286" y="5.78125" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="1.42857143" y="7.2265625" width="1.42857143" height="4.3359375"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="0" y="11.5625" width="1.42857143" height="2.890625"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="2.85714286" y="4.3359375" width="4.28571429" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="7.14285714" y="5.78125" width="1.42857143" height="2.890625"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="8.57142857" y="4.3359375" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="11.4285714" y="2.890625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="14.2857143" y="5.78125" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="15.7142857" y="7.2265625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="18.5714286" y="10.1171875" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="24.2857143" y="7.2265625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="22.8571429" y="7.2265625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="4.28571429" y="7.2265625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="2.85714286" y="11.5625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="22.8571429" y="10.1171875" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="12.8571429" y="10.1171875" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="11.4285714" y="8.671875" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="17.1428571" y="2.890625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="20" y="2.890625" width="1.42857143" height="2.890625"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="21.4285714" y="4.3359375" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="25.7142857" y="4.3359375" width="1.42857143" height="2.890625"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="27.1428571" y="7.2265625" width="1.42857143" height="4.3359375"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="27.1428571" y="13.0078125" width="1.42857143" height="2.890625"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="22.8571429" y="2.890625" width="2.85714286" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="18.5714286" y="1.4453125" width="2.85714286" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="14.2857143" y="0" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="15.7142857" y="1.4453125" width="1.42857143" height="4.3359375"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="12.8571429" y="0" width="1.42857143" height="2.890625"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="7.14285714" y="2.890625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="8.57142857" y="1.4453125" width="2.85714286" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="21.4285714" y="13.0078125" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="22.8571429" y="14.453125" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="12.8571429" y="11.5625" width="4.28571429" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="18.5714286" y="11.5625" width="4.28571429" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="8.57142857" y="13.0078125" width="4.28571429" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="7.14285714" y="11.5625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="17.1428571" y="13.0078125" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="5.71428571" y="13.0078125" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="1.42857143" y="24.5703125" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="2.85714286" y="26.015625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="1.42857143" y="18.7890625" width="2.85714286" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="0" y="18.7890625" width="1.42857143" height="5.78125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="27.1428571" y="24.5703125" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="25.7142857" y="26.015625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="25.7142857" y="18.7890625" width="2.85714286" height="1.4453125"></rect>
+                                    <rect id="AugeLinks" fill="#000000" x="28.5714286" y="18.7890625" width="1.42857143" height="5.78125"></rect>
+                                    <rect id="AugeRechts" fill="#000000" x="18.5714286" y="19.7526042" width="1.42857143" height="2.890625"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="7.14285714" y="30.3515625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="8.57142857" y="26.4973958" width="2.85714286" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="11.4285714" y="25.0520833" width="2.85714286" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="15.7142857" y="25.0520833" width="2.85714286" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="18.5714286" y="26.4973958" width="2.85714286" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="21.4285714" y="25.0520833" width="2.85714286" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="22.8571429" y="28.90625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="21.4285714" y="30.3515625" width="1.42857143" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="11.4285714" y="33.2421875" width="7.14285714" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="8.57142857" y="31.796875" width="2.85714286" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="5.71428571" y="25.0520833" width="2.85714286" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="18.5714286" y="31.796875" width="2.85714286" height="1.4453125"></rect>
+                                    <rect id="Rectangle-11" fill="#000000" x="24.2857143" y="14.453125" width="1.42857143" height="14.453125"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
