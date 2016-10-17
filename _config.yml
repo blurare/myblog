@@ -1,6 +1,6 @@
 # Site settings
 email: 
-baseurl: "/"
+baseurl: "https://iterativintuitiv.github.io/myblog/"
 paginate: 10
 paginate_path: "/myblog/page-:num"
 google_analytics: 
