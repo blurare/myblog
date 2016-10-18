@@ -160,8 +160,8 @@
         max-height: 1.5em;
         width: 1.5em;
           &:hover{
-          transition: opacity 0.4s ease-in-out;
-           opacity: 0.5;
+            transition: opacity 0.2s ease-in-out;
+             opacity: 0.5;
           }
         } 
     }
@@ -188,7 +188,7 @@
 
   &__logoPost{
     z-index: 2;
-    padding: $padding-double 0;
+    padding: $padding-standard 0;
     margin: 0 auto;
     width: 100%;
   }
@@ -230,29 +230,29 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     
     font-family: $font-body;
     color: $color-black;
-    padding: $padding-standard $padding-standard;
-
+    padding: $padding-standard 0 $padding-standard $padding-standard;
     
     font-style: $font-body;
       & > *{
         
         align-self: center;
-        align-self: flex-start;
 
           &:first-child{
             width: 30%;
             align-item:center;
           }
           &:nth-child(2){
-          border: 3px solid $color-white;
-          padding: $padding-standard $padding-standard;
-          margin: 0 $padding-half;
+          padding: $padding-standard 0 $padding-standard $padding-standard;
+          
           color: white;
-
+            hr{
+              width: 150px;
+              margin: $padding-third 0 ;
+            }
           }
       }
   }
@@ -284,12 +284,13 @@
     flex-direction: row;
     flex-wrap: wrap;
     max-width: 100%;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-items: flex-start;
     padding: $padding-standard;
       
     & > *{
       table{
-        width: 50%;
+        max-width: 50%;
         padding-bottom: 0;
       }
       
@@ -305,6 +306,7 @@
 
       td:nth-child(1){
         font-size: $fontSize-third;
+        width: 20%;
       }
       td:nth-child(2){
         font-size: $fontSize-half;
@@ -353,7 +355,7 @@
 
       opacity: 0;
       will-change: opacity;
-      transition: opacity 0.4s ease-in-out;
+      transition: opacity 0.2s ease-in-out;
     }
 
     &:hover {
@@ -453,7 +455,7 @@
   }
 
   &__img {
-    animation: fade-in 2s both;
+    animation: fade-in 1s both;
   }
 
   &__container {

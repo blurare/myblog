@@ -6,7 +6,7 @@ layout: default
     <img class="previews__logo" src="{{ 'assets/img/logo.svg' | prepend: site.baseurl }}">
     <div class="previews__container">
       <h3>iterativintuitiv ist dein neuer IX · UX · UI · Service · Vorabend Talk. <br>  
-           <a target="_blank" href="http://dennishatwieger.de/">Dennis</a> und <a target="_blank" href="http://okoebler.de/">Oli</a> quatschen über Projekte, die Rolle des Designers und die Grundlagen die jeder kennen sollte.
+           <a target="_blank" href="http://dennishatwieger.de/">Dennis</a> und <a target="_blank" href="http://okoebler.de/">Oli</a> sinnieren über Designgrundlagen, aktuelle Projekte und wie Design in Zukunft doch noch die Welt retten kann.
       </h3>
     </div>
     <div class="previews__hostsWrapper">
@@ -14,13 +14,13 @@ layout: default
         <img src="{{ 'assets/img/icons/dennisLogo.svg' | prepend: site.baseurl }}">
       </div>
       <div class="previews__hostsName" >
-        <a href="http://www.dennishatwieger.de"> DENNIS</a>
+        <a href="http://www.dennishatwieger.de" target="_blank"> DENNIS</a>
       </div>
       <div class="previews__hostsImage" >
         <img src="{{ 'assets/img/icons/oliLogo.svg' | prepend: site.baseurl }}">
       </div>
       <div class="previews__hostsName" >
-        <a href="http://www.dennishatwieger.de"> OLI</a>
+        <a href="http://www.okoebler.de" target="_blank"> OLI</a>
       </div>
     
     
@@ -52,7 +52,12 @@ layout: default
 
               <!-- date wird zur zeit nicht genutzt
               <span class="preview__date" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.episode  }}</span> -->
-              <h1 class="preview__header" itemprop="name">{{ post.title }}</h1>
+              
+              <div class="preview__header" itemprop="datePublished" >
+                <h3 class="preview__date">- {{ post.date | date_to_string }} -</h3>
+                <h1 itemprop="name" >{{ post.title }}</h1>
+              </div>
+              
               <img class="preview__logoPost" src="{{ post.image }}"></img>
               <div class="preview__audioPlayer">{{ post.mp3 }}</div>
               <div class="preview__excerptText" style="background-color:{{ post.colorPost }}">

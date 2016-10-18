@@ -5,98 +5,9 @@
     <description></description>
     <link>www.iterativintuitiv.de/</link>
     <atom:link href="www.iterativintuitiv.de/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Oct 2016 20:06:38 +0200</pubDate>
-    <lastBuildDate>Mon, 17 Oct 2016 20:06:38 +0200</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2016 21:40:51 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2016 21:40:51 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
-    
-      <item>
-        <title>Ähm, Interaction Design</title>
-        <description>&lt;!-- nach 8 einträgen ein neues table erstellen, danke :) !--&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Zwei&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Thu, 08 Sep 2016 00:00:00 +0200</pubDate>
-        <link>www.iterativintuitiv.de/2016/09/08/aehm-id-Kopie/</link>
-        <guid isPermaLink="true">www.iterativintuitiv.de/2016/09/08/aehm-id-Kopie/</guid>
-        
-        
-      </item>
     
       <item>
         <title>Geschichten erzählen ohne van Schneider</title>
@@ -180,15 +91,15 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Wed, 07 Sep 2016 00:00:00 +0200</pubDate>
-        <link>www.iterativintuitiv.de/2016/09/07/episode-4/</link>
-        <guid isPermaLink="true">www.iterativintuitiv.de/2016/09/07/episode-4/</guid>
+        <pubDate>Sat, 15 Oct 2016 00:00:00 +0200</pubDate>
+        <link>www.iterativintuitiv.de/2016/10/15/episode-4/</link>
+        <guid isPermaLink="true">www.iterativintuitiv.de/2016/10/15/episode-4/</guid>
         
         
       </item>
     
       <item>
-        <title>Ähm, Interaction Design</title>
+        <title>Ähm, Interaktion Design?!</title>
         <description>&lt;!-- nach 8 einträgen ein neues table erstellen, danke :) !--&gt;
 
 &lt;table&gt;
@@ -200,32 +111,28 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Die Songs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://www.intoinfintity.org&quot;&gt;intoinfintity.org&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Unser Podcasting Tool&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://www.zencastr.com&quot;&gt;Zencastr&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Von Dennis die&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://bit.ly/umfrage_doku_design&quot;&gt;Herausforderung für Designer&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Der Let’s Play Channel von&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.youtube.com/user/Steinwallen&quot;&gt;Steinwallen&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Das Multiplayer Design Tool&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;htpp://www.figma.com&quot;&gt;Figma&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Don Norman’s&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things&quot;&gt;The Design of Everyday Things&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -239,39 +146,35 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Zwei&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Kolaborations Tool&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://www.invision.com&quot;&gt;Invision&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Multiplayer mit dem&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://github.com/mathieudutour/git-sketch-plugin&quot;&gt;Github Plugin für Sketch&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Die lang gehypte&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.oculus.com/&quot;&gt;Oculus&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Die neue Königing&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.vive.com/de/&quot;&gt;HTC Vive&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Die günstige&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://vr.google.com/cardboard/&quot;&gt;Google Cardboard&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Magazin&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;bit.ly/yacht-cover.jpg&quot;&gt;bit.ly/yacht-cover.jpg&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Jean-Marc Denis&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b#.ixyccymnc&quot;&gt;From product design to virtual reality&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Tue, 06 Sep 2016 00:00:00 +0200</pubDate>
-        <link>www.iterativintuitiv.de/2016/09/06/aehm-id/</link>
-        <guid isPermaLink="true">www.iterativintuitiv.de/2016/09/06/aehm-id/</guid>
+        <pubDate>Sat, 15 Oct 2016 00:00:00 +0200</pubDate>
+        <link>www.iterativintuitiv.de/2016/10/15/episode-4-Kopie/</link>
+        <guid isPermaLink="true">www.iterativintuitiv.de/2016/10/15/episode-4-Kopie/</guid>
         
         
       </item>

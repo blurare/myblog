@@ -1,0 +1,52 @@
+---
+layout: none
+title: "Ähm, Interaktion Design?!"
+episode: "01"
+description: "Diese Woche stellen sich Dennis und Oli die Frage ob ein Multiplayer alleine reicht, Iterationen im Prozess funktionieren und wie wir VR sehen"
+colorPost: "#B8E986"
+song: "vosotros"
+image: assets/img/episode4.svg
+
+
+mp3: <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fiterativintuitiv%2Fepisode-1-%25C3%25A4hm-interaction%2F&hide_cover=1&mini=1&hide_artwork=1" frameborder="0"></iframe>
+
+chapter: 
+- "Willkomenn"
+- "Vorgeplänkel: Master, Schneidebrett, Let's Play & Fimga" 
+- "Wort der Woche: Iterativ"
+- "Das Thema: VR" 
+- "Sinniren über: Mensch - Mensch Interaktion" 
+- "Reflektion"
+
+chapterStart:
+- ""
+- "00:00:00"
+- "00:03:25"
+- "00:16:00"
+- "00:33:45"
+- "00:53:35"
+- "01:03:00"
+
+---
+
+<!-- nach 8 einträgen ein neues table erstellen, danke :) !--> 
+
+| | |
+|:-|:-|
+| Die Songs | [intoinfintity.org](http://www.intoinfintity.org) |
+| Unser Podcasting Tool | [Zencastr](http://www.zencastr.com) |
+| Von Dennis die| [Herausforderung für Designer](http://bit.ly/umfrage_doku_design) |
+| Der Let's Play Channel von | [Steinwallen](https://www.youtube.com/user/Steinwallen) |
+| Das Multiplayer Design Tool | [Figma](htpp://www.figma.com) |
+| Don Norman's | [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) |
+
+
+
+| | |
+|:-|:-|
+| Kolaborations Tool | [Invision](http://www.invision.com) |
+| Multiplayer mit dem | [Github Plugin für Sketch](https://github.com/mathieudutour/git-sketch-plugin) |
+| Die lang gehypte | [Oculus](https://www.oculus.com/) |
+| Die neue Königing | [HTC Vive](https://www.vive.com/de/) |
+| Die günstige | [Google Cardboard](https://vr.google.com/cardboard/) |
+| Jean-Marc Denis | [From product design to virtual reality](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b#.ixyccymnc) |

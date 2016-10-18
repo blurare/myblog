@@ -91,7 +91,7 @@ section {
     }
 
     &:nth-child(4){ //footer
-      z-index: -100;
+      
       order: 2;
       height: 20vh;
       background-color: $color-grey;
