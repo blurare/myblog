@@ -290,6 +290,7 @@
       
     & > *{
       table{
+        align-item: flex-start;
         max-width: 50%;
         padding-bottom: 0;
       }
@@ -306,7 +307,7 @@
 
       td:nth-child(1){
         font-size: $fontSize-third;
-        width: 20%;
+        min-width: 20%;
       }
       td:nth-child(2){
         font-size: $fontSize-half;
