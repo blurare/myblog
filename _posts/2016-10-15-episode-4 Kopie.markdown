@@ -1,6 +1,6 @@
 ---
 layout: none
-title: "Ähm, Interaktion Design?!"
+title: "Ähm, Interaction Design?!"
 episode: "01"
 description: "Diese Woche stellen sich Dennis und Oli die Frage ob ein Multiplayer alleine reicht, Iterationen im Prozess funktionieren und wie wir VR sehen"
 colorPost: "#B8E986"
@@ -13,7 +13,7 @@ mp3: <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/ifram
 chapter: 
 - "Willkomenn"
 - "Vorgeplänkel: Master, Schneidebrett, Let's Play & Fimga" 
-- "Wort der Woche: Iterativ"
+- "Wort der Woche: Iterativ "
 - "Das Thema: VR" 
 - "Sinniren über: Mensch - Mensch Interaktion" 
 - "Reflektion"
