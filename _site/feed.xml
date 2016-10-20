@@ -3,10 +3,10 @@
   <channel>
     <title>iterativintuitiv</title>
     <description></description>
-    <link>www.iterativintuitiv.de/</link>
-    <atom:link href="www.iterativintuitiv.de/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Oct 2016 19:10:11 +0200</pubDate>
-    <lastBuildDate>Thu, 20 Oct 2016 19:10:11 +0200</lastBuildDate>
+    <link>www.iterativintuitiv.de/myblog//</link>
+    <atom:link href="www.iterativintuitiv.de/myblog//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 21 Oct 2016 00:05:53 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Oct 2016 00:05:53 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -91,15 +91,81 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Sat, 15 Oct 2016 00:00:00 +0200</pubDate>
-        <link>www.iterativintuitiv.de/2016/10/15/episode-4/</link>
-        <guid isPermaLink="true">www.iterativintuitiv.de/2016/10/15/episode-4/</guid>
+        <pubDate>Wed, 19 Oct 2016 00:00:00 +0200</pubDate>
+        <link>www.iterativintuitiv.de/myblog//2016/10/19/episode-4/</link>
+        <guid isPermaLink="true">www.iterativintuitiv.de/myblog//2016/10/19/episode-4/</guid>
         
         
       </item>
     
       <item>
-        <title>Ähm, Interaktion Design?!</title>
+        <title>Vom Bauchgefühl her</title>
+        <description>&lt;!-- nach 8 einträgen ein neues table erstellen, danke :) !--&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Die Konferenz&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://ubx.info/konferenz/&quot;&gt;UBX&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pablo Escobar in&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://www.imdb.com/title/tt2707408/&quot;&gt;Narcos&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Zahlen für die&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://www.kuenstlersozialkasse.de/service/ksk-in-zahlen.html&quot;&gt;KSK&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Die Intuition nach&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://www.cooper.com/journal/2007/10/intuition_pleasure_and_gesture&quot;&gt;Cooper&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Appels Idee der&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://developer.apple.com/ibeacon/&quot;&gt;iBeacon&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Understanding&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://shop.oreilly.com/product/0636920037019.do&quot;&gt;Industrial Design&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Oberbyrischer&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6vMejS21KH4&quot;&gt;Schreiner&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Facebook mit&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.facebook.com/sheryl?fref=ts&quot;&gt;Sheryl Sandberg&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        <pubDate>Sun, 16 Oct 2016 00:00:00 +0200</pubDate>
+        <link>www.iterativintuitiv.de/myblog//2016/10/16/episode-4-Kopie-2/</link>
+        <guid isPermaLink="true">www.iterativintuitiv.de/myblog//2016/10/16/episode-4-Kopie-2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ähm, Interaction Design?!</title>
         <description>&lt;!-- nach 8 einträgen ein neues table erstellen, danke :) !--&gt;
 
 &lt;table&gt;
@@ -173,8 +239,8 @@
 &lt;/table&gt;
 </description>
         <pubDate>Sat, 15 Oct 2016 00:00:00 +0200</pubDate>
-        <link>www.iterativintuitiv.de/2016/10/15/episode-4-Kopie/</link>
-        <guid isPermaLink="true">www.iterativintuitiv.de/2016/10/15/episode-4-Kopie/</guid>
+        <link>www.iterativintuitiv.de/myblog//2016/10/15/episode-4-Kopie/</link>
+        <guid isPermaLink="true">www.iterativintuitiv.de/myblog//2016/10/15/episode-4-Kopie/</guid>
         
         
       </item>
