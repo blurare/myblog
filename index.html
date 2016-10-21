@@ -1,5 +1,8 @@
 ---
 layout: default
+
+
+
 ---
 <section class="previews">
   <div class="previews__wrapperLeft">
@@ -70,8 +73,9 @@ layout: default
                 {% for chapter in post.chapter  %}
                   {% assign count = count | plus: 1 %}
                   <div class="preview__podcastInfoChapter" > 
-                    <p>Teil{{count}} - {{ post.chapterStart[count] | textilize }}</p> 
-                    <h3>{{ chapter | textilize }} </h3>
+                    <p>{{ post.chapterTitle[count] | textilize }}</p> 
+                    <h3>{{ post.chapter[count] | textilize }} </h3>
+                    <p>{{ post.chapterStart[count] | textilize }}
                   </div>
                   {% endfor %}
                 </div>
