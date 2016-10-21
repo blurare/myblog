@@ -16,7 +16,7 @@ chapter:
 - "Das Wort der Woche: In·tu·i·ti·ōn"
 - "Das Thema: Physical Web"
 - "Sinnieren über: Die Brücke zwischen analog und digital" 
-- "Reflektion"
+- "Reflexion"
 
 chapterStart:
 - ""
