@@ -16,7 +16,7 @@ chapter:
 - "Das Wort der Woche: In·tu·i·ti·ōn"
 - "Das Thema: Physical Web"
 - "Sinnieren über: Die Brücke zwischen analog und digital" 
-- "Reflektion"
+- "Reflexion"
 
 chapterStart:
 - ""
@@ -43,8 +43,8 @@ chapterStart:
 
 | | |
 |:-|:-|
-| Appels Idee der | [iBeacon](https://developer.apple.com/ibeacon/) |
+| Apples Idee der | [iBeacon](https://developer.apple.com/ibeacon/) |
 | Understanding | [Industrial Design](http://shop.oreilly.com/product/0636920037019.do) |
-| Oberbyrischer | [Schreiner](https://www.youtube.com/watch?v=6vMejS21KH4) |
+| Niederbayerischer | [Schreiner](https://www.youtube.com/watch?v=6vMejS21KH4) |
 | Facebook mit | [Sheryl Sandberg](https://www.facebook.com/sheryl?fref=ts) |
 
