@@ -201,6 +201,8 @@
   &__date {
     font-family: $font-header;
     color: $color-black;
+    font-size: $fontSize-third;
+    text-transform: uppercase;
   }
 
   &__header {
