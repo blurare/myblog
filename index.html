@@ -54,7 +54,7 @@ layout: default
               <span class="preview__date" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.episode  }}</span> -->
               
               <div class="preview__header" itemprop="datePublished" >
-                <h3 class="preview__date">- {{ post.date | date_to_string }} -</h3>
+                <time class="preview__date">· {{ post.date | date_to_string }} ·</time>
                 <h1 itemprop="name" >{{ post.title }}</h1>
               </div>
               
